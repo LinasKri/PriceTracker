@@ -1,0 +1,58 @@
+.ethereum-top-gradient-color {
+  background: $ethereum-top-gradient-color;
+}
+.ethereum-bg {
+  background: $ethereum-bg-color;
+}
+
+.binance-top-gradient-color {
+  background: $binance-top-gradient-color;
+}
+.binance-bg {
+  background: $binance-bg-color;
+}
+.chain-top-gradient-color {
+  background: $chain-top-gradient-color;
+}
+.chain-bg {
+  background: $chain-bg-color;
+}
+
+.polygon-top-gradient-color {
+  background: $polygon-top-gradient-color;
+}
+.polygon-bg {
+  background: $polygon-bg-color;
+}
+
+.gas-price-tracker-bg-color {
+  background: $gas-price-tracker-bg-color;
+}
+
+.ethereum-chart-bg-color {
+  background-color: lighten($color: $ethereum-bg-color, $amount: 10%);
+}
+.binance-chart-bg-color {
+  background-color: lighten($color: $binance-bg-color, $amount: 10%);
+}
+.chain-chart-bg-color {
+  background-color: lighten($color: $chain-bg-color, $amount: 10%);
+}
+.polygon-chart-bg-color {
+  background-color: lighten($color: $polygon-bg-color, $amount: 10%);
+}
+
+.gas-price-holder {
+  min-width: 13rem;
+  max-height: 11rem;
+}
+
+.green {
+  color: rgb(4, 218, 4);
+}
+.blue {
+  color: #0096ff;
+}
+.red {
+  color: red;
+}

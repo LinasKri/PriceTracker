@@ -1,0 +1,29 @@
+[
+  {
+    "name": "😁Low",
+    "gwei": 12,
+    "base": 11,
+    "priority": 1,
+    "price": 0.28,
+    "time": [3, 0],
+    "color": "green"
+  },
+  {
+    "name": "😀Average",
+    "gwei": 13,
+    "base": 11,
+    "priority": 2,
+    "price": 0.28,
+    "time": [3, 0],
+    "color": "blue"
+  },
+  {
+    "name": "🙂High",
+    "gwei": 15,
+    "base": 11,
+    "priority": 4,
+    "price": 0.33,
+    "time": [0, 30],
+    "color": "red"
+  }
+]

@@ -1,0 +1,25 @@
+$ethereum-bg-color: #25003e;
+$ethereum-top-gradient-color: linear-gradient(
+  lighten($ethereum-bg-color, 10%) 0%,
+  rgba(255, 255, 255, 0) 250px
+);
+
+$binance-bg-color: #173e00;
+$binance-top-gradient-color: linear-gradient(
+  lighten($binance-bg-color, 10%) 0%,
+  rgba(255, 255, 255, 0) 250px
+);
+
+$chain-bg-color: #3d3e00;
+$chain-top-gradient-color: linear-gradient(
+  lighten($chain-bg-color, 10%) 0%,
+  rgba(255, 255, 255, 0) 250px
+);
+
+$polygon-bg-color: #3e0400;
+$polygon-top-gradient-color: linear-gradient(
+  lighten($polygon-bg-color, 10%) 0%,
+  rgba(255, 255, 255, 0) 250px
+);
+
+$gas-price-tracker-bg-color: #eaf9ea;
