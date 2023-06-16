@@ -43,7 +43,7 @@
                   >Ethereum</router-link
                 >
                 <router-link
-                  to="/binance-smart"
+                  to="/binance"
                   class="fs-5 text-warning text-decoration-none me-2"
                   >Binance&nbsp;Smart</router-link
                 >
